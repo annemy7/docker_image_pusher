@@ -9,3 +9,5 @@
 amtoaer/bili-sync-rs:latest
 # 悟空的盒子助手，内置 adb
 wukongdaily/box:latest
+# 最小系统容器镜像
+alpine:latest
